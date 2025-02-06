@@ -67,8 +67,8 @@ while True:
             print(message)
 
 
-           except: IndexError
-           print('Item does not exist')
+           except IndexError:
+               print('Item does not exist')
            continue
 
 
