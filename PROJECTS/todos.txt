@@ -1,2 +1,5 @@
 go to shop
 eat dinner
+a
+b
+Practice Python
