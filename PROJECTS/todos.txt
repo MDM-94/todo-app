@@ -1,5 +1,6 @@
-go to shop
-eat dinner
-a
-b
-Practice Python
+Master Python
+Go to gym
+Build models
+Make music
+Newest todo
+Have lunch
