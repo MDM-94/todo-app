@@ -1,6 +1,1 @@
-Master Python
-Go to gym
-Build models
-Make music
-Newest todo
-Have lunch
+Eat dinner
